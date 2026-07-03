@@ -297,4 +297,5 @@ table.data-table tbody td { padding: 11px 14px; color: var(--color-text-primary)
   body { background: #fff !important; color: #000 !important; }
   .sidebar-nav, .main-content > .page-header { display: none !important; }
   .main-content { margin-left: 0 !important; }
+
 }
