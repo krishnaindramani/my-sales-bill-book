@@ -1,0 +1,35 @@
+{
+  "name": "my-sales-bill-book",
+  "version": "1.0.0",
+  "author": "Kumar Enterprises",
+  "description": "Local Billing and Micro-ERP Software",
+  "main": "server.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.3.1",
+    "autoprefixer": "^10.5.2",
+    "better-sqlite3": "^11.8.0",
+    "clsx": "^2.1.1",
+    "lucide-react": "^1.21.0",
+    "next": "^14.2.3",
+    "pg": "^8.22.0",
+    "postcss": "^8.5.15",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "recharts": "^3.9.0",
+    "tailwind-merge": "^3.6.0"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.10",
+    "@types/node": "^20.12.12",
+    "@types/pg": "^8.20.0",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.4.5"
+  }
+}
